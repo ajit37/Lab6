@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: root
+    Linux system name: fedora
+    Python executable: /usr/bin/python3
+    Python version: 3127
+    OS Platform: linux
+    Working Directory: /home/avirk18/ops445/Lab6
+    Start at: Sun Nov 17 21:32:31 2024
+=================================================================
